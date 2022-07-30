@@ -1,0 +1,71 @@
+/*------------------------------------------------------------------
+[Adityawarman Dewa Putra] [SMKN 1 JAKARTA] 
+
+Copyright 2021 By: Dewa Programming
+
+Project		:	Belajar PHP Kelas 12
+Dibuat	    :	27/07/2021
+Instagram   :   @dewaprogramming -- @741_dewa -- @all_dewa_works
+-------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------
+[Judul]
+
+0. Biasa
+1. Yo Ndak Tau
+-------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------
+[NOTE]
+COPY PASTE PUNYA ORANG LAIN TANPA IZIN ITU DOSA
+IZIN TERLEBIH DAHULU. TERIMAKASIH :)
+-------------------------------------------------------------------*/
+
+
+
+/*-------------------------------------------------------------------
+[0. Biasa]
+*------------------------------------------------------------------*/
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins.woff2');
+}
+
+body {
+    background-color: #EEE;
+    margin: 0;
+    padding: 0;
+    
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background: #455a64;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #0B549F;
+}
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+
+
+/*-------------------------------------------------------------------
+[1. Yo Ndak Tau]
+*------------------------------------------------------------------*/
+.img-profile {
+    width: 100px;
+}
